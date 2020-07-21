@@ -11,11 +11,10 @@ Es una implementacion de chroot, ejecutando un usuario con ciertos privilegios, 
 
 //Create Images by @ steven
 
-use github issues to host images
 ![logo205x250](https://user-images.githubusercontent.com/61888926/88115061-e3695080-cb7a-11ea-979f-2cd081e68866.gif)
-![root](https://user-images.githubusercontent.com/61888926/88115011-c5035500-cb7a-11ea-8a7f-1d2dbb5f9181.jpeg)
 
 ##################################################################
+
 ## HACKERPRO Menu :
 
 1. PROOT-and hacking
@@ -29,13 +28,13 @@ use github issues to host images
 #git clone https://github.com/BR4Y4N46/sroot.git 
 
 ## Tercer paso abrir la carpeta sroot:
-# cd sroot
+#cd sroot
 
 ## Cuarto paso Ortorgar Permisos al sroot:
-# chmod 755 sroot
+#chmod 755 sroot
 
 ## Ejecutas el repositorio
-# bash sroot
+#bash sroot
 
 ##############################################################
 
