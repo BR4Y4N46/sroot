@@ -9,7 +9,7 @@ Es una implementacion de chroot, ejecutando un usuario con ciertos privilegios, 
 <p align="center">***Tools root All Hacker Needs***</p>
 <p align="center">***by@Steven Metz***</p>
 
-<img width="473" height="400" src="/wp-content/uploads/2018/01/king-Root-e1516841934835.jpeg" class="attachment-full size-full" alt="king Root" itemprop="image" srcset="/wp-content/uploads/2018/01/king-Root-e1516841934835.jpeg 473w, /wp-content/uploads/2018/01/king-Root-e1516841934835-300x254.jpeg 300w, /wp-content/uploads/2018/01/king-Root-e1516841934835-422x357.jpeg 422w" sizes="(max-width: 473px) 100vw, 473px">
+<a class="js-navigation-open link-gray-dark" title="root.jpeg" id="49949123bb7beae4a38b619567bfd043-06e08df24bc000fda13feebc67abacebae10a915" href="/BR4Y4N46/sroot/blob/master/root.jpeg">root.jpeg</a>
 
 ## HACKERPRO Menu :
 
