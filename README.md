@@ -8,7 +8,8 @@ Es una implementacion de chroot, ejecutando un usuario con ciertos privilegios, 
 
 <p align="center">***Tools root All Hacker Needs***</p>
 <p align="center">***by@Steven Metz***</p>
- <img src="logo205x250.gif" alt="hackerpro_logo" height="205" width="250"> 
+
+<img src="/technicaldada/hackerpro/raw/master/logo205x250.gif" alt="hackerpro_logo" height="205" width="250" style="max-width:100%;">
 
 ## HACKERPRO Menu :
 
