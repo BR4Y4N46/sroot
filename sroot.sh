@@ -4,15 +4,15 @@
 echo -e "\e[31m ACTUALIZANDO REPOSITORIOS \e[0m"
 
 #Espera del script//////////////
-sleep 5s
+sleep 5
 
 echo -e "\e[92m ºººCARGANDOººº \e[0m"
 
-sleep 1s
+sleep 1
 
 echo -e "\e[34m  ººCARGANDOºº \e[0m"
 
-sleep 1s
+sleep 1
 
 echo -e "\e[33m   ºCARGANDOº \e[0m"
 
@@ -30,7 +30,7 @@ echo -e "\e[91m\__ \ |___| |   / (_) | (_) || |  \e[0m"
 echo -e "\e[96m|___/       |_|_\\___/ \___/ |_|  \e[0m"
 echo -e "\e[93m      by@Steven-Programador       \e[0m"
 
-sleep 5s
+sleep 5
 
 #ACTUA SEGUN Y-X
 
