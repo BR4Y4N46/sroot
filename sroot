@@ -1,61 +1,37 @@
 #!bin/bash
-
 #Bienvenida del script//////////////
 echo -e "\e[31m ACTUALIZANDO REPOSITORIOS \e[0m"
-
 #Espera del script//////////////
 sleep 5s
-
 echo -e "\e[92m ºººCARGANDOººº \e[0m"
-
 sleep 1s
-
 echo -e "\e[34m  ººCARGANDOºº \e[0m"
-
 sleep 1s
-
 echo -e "\e[33m   ºCARGANDOº \e[0m"
-
 #Instalando RPM/////////////
-890748
-
-
 pkg install figlet -y
 pkg install vim -y
 pkg install ruby -y
 pkg install lolcat -y
-
 #BANNER FUNCIONAL REGLA ASSCI echo
 echo -e "\e[92m ___         ___  ___   ___ _____ \e[0m"
 echo -e "\e[94m/ __|  ___  | _ \/ _ \ / _ \_   _|\e[0m"
 echo -e "\e[91m\__ \ |___| |   / (_) | (_) || |  \e[0m"
 echo -e "\e[96m|___/       |_|_\\___/ \___/ |_|  \e[0m"
 echo -e "\e[93m      by@Steven-Programador       \e[0m"
-
 sleep 5s
-
 #ACTUA SEGUN Y-X
-
 echo ACTUALIZANDO REPOSITORIOS | lolcat -a -d 50
-
 pkg install figlet -y
 pkg install vim -y
 pkg install ruby -y
 pkg install lolcat -y
-
-
 echo ºººREPOSITORIOS ACTUALIZADOSººº | lolcat -a -d 50
-
 #CREAR ROOT
-
 echo ----IINSTALANDO ROOT---- | lolcat -a -d 50
-
 pkg install proot
-
 echo -----REALIZANDO TAREAS DE POS-INSTALACION----- | lolcat -a -d 50
-
 pkg update -y
-
 figlet ROOT | lolcat -a -d 12
 echo -----YA ERES ROOT DISFRUTALO----- | lolcat -a -d 50
 proot -0 -w ~ $PREFIX/bin/bash
