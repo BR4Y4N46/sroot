@@ -9,8 +9,10 @@ Es una implementacion de chroot, ejecutando un usuario con ciertos privilegios, 
 <p align="center">***Tools root All Hacker Needs***</p>
 <p align="center">***by@Steven Metz***</p>
 
+//Create Images by @ steven
+
 use github issues to host images
-https://user-images.githubusercontent.com/61888926/88114611-e31c8580-cb79-11ea-8d12-7c3eac224dc5.gif
+
 
 ## HACKERPRO Menu :
 
