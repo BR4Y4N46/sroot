@@ -58,4 +58,6 @@ pkg update -y
 
 figlet ROOT | lolcat -a -d 12
 
+echo ----YA ERES ROOT DISFRUTALO---- | lolcat -a -d 50
+
 proot -0 -w ~ $PREFIX/bin/bash
