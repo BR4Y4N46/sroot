@@ -17,8 +17,6 @@ sleep 1s
 echo -e "\e[33m   ºCARGANDOº \e[0m"
 
 #Instalando RPM/////////////
-890748
-
 
 pkg install figlet -y
 pkg install vim -y
