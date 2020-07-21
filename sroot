@@ -28,7 +28,7 @@ pkg install ruby -y
 pkg install lolcat -y
 echo ºººREPOSITORIOS ACTUALIZADOSººº | lolcat -a -d 50
 #CREAR ROOT
-echo ----IINSTALANDO ROOT---- | lolcat -a -d 50
+echo  -----INSTALANDO ROOT---- | lolcat -a -d 50
 pkg install proot
 echo -----REALIZANDO TAREAS DE POS-INSTALACION----- | lolcat -a -d 50
 pkg update -y
