@@ -12,6 +12,7 @@ Es una implementacion de chroot, ejecutando un usuario con ciertos privilegios, 
 //Create Images by @ steven
 
 use github issues to host images
+![logo205x250](https://user-images.githubusercontent.com/61888926/88115061-e3695080-cb7a-11ea-979f-2cd081e68866.gif)
 
 
 ## HACKERPRO Menu :
