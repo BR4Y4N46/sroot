@@ -38,6 +38,7 @@ Es una implementacion de chroot, ejecutando un usuario con ciertos privilegios, 
 
 ##############################################################
 
-
+NOTA: LUEGO DE EJECUTAR EL ROOT, EJECUTAS LA APLICACION QUE NECESITAS CON ROOT 
+SI DESEAS SALIR DEL MODO DE ROOT CIERRA TERMUX Y VUELVE A ABRIRLO, DIVIERTETE... 
 
 
